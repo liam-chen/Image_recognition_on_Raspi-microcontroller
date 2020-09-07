@@ -1,0 +1,4 @@
+black+black+red 0.9772969 99 109 368 377
+white+black+red 0.21648076 130 109 404 437
+black+black+red 0.9772969 99 109 368 377
+white+black+red 0.21648076 130 109 404 437

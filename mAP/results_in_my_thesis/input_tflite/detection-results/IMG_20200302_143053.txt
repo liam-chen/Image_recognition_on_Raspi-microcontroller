@@ -1,0 +1,3 @@
+white+black+red 0.46209106 86 111 229 297
+white+black+red 0.32581627 57 91 256 327
+white+black+red 0.33839482 86 81 280 328

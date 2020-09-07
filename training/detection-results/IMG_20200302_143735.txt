@@ -1,0 +1,12 @@
+white+white+red 0.7200918 -25 134 364 367
+black+white+silver 0.21574758 544 100 687 313
+white+white+red 0.050445907 239 205 552 372
+white+black+silver 0.3183484 500 147 717 457
+white+white+silver 0.10161174 -24 201 406 508
+black+black+silver 0.46822843 438 274 689 449
+white+white+red 0.7200918 -25 134 364 367
+black+white+silver 0.21574758 544 100 687 313
+white+white+red 0.050445907 239 205 552 372
+white+black+silver 0.3183484 500 147 717 457
+white+white+silver 0.10161174 -24 201 406 508
+black+black+silver 0.46822843 438 274 689 449

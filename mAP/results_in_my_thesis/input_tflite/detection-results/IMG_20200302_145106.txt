@@ -1,0 +1,7 @@
+white+white+silver 0.51715416 195 112 460 345
+white+white+silver 0.7383406 178 121 481 311
+white+white+silver 0.5099895 152 114 507 349
+white+black+silver 0.32020712 168 203 456 357
+white+black+silver 0.66537696 178 165 464 392
+white+black+silver 0.80708927 158 182 482 383
+white+black+silver 0.606197 138 163 520 391

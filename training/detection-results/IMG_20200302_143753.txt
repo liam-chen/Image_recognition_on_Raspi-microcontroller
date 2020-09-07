@@ -1,0 +1,4 @@
+white+white+red 0.9007852 97 152 402 334
+white+white+red 0.05969108 353 187 662 370
+white+white+red 0.9007852 97 152 402 334
+white+white+red 0.05969108 353 187 662 370

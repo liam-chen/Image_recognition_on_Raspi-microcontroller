@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resizedImage</folder>
+	<filename>IMG_20200224_160032_0.jpg</filename>
+	<path>D:\Uni_Stuttgart\MA\resizedImage\IMG_20200224_160032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>452</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black+white+red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>287</ymin>
+			<xmax>695</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,30 @@
+{
+    "model" : {
+        "architecture":         "MobileNet",                              
+        "input_size":           224,                                     
+        "anchors":              [1.51,2.43, 1.83,1.54, 2.26,3.08, 2.59,2.07, 3.75,3.41],        
+        "labels":               ["black+black+red","black+black+silver","black+white+red","black+white+silver","white+black+red","white+black+silver","white+white+red","white+white+silver"],                             
+        "coord_scale" : 		1.0,
+        "class_scale" : 		1.0,
+        "object_scale" : 	5.0,
+        "no_object_scale" : 	1.0
+    },
+    "pretrained" : {
+        "full":   ""
+    },
+    "train" : {
+        "actual_epoch":         500,
+        "train_image_folder":   "train_img",                            
+        "train_annot_folder":   "train_ann",                   
+        "train_times":          2,
+        "valid_image_folder":   "val_img",
+        "valid_annot_folder":   "val_ann",
+        "valid_times":          1,
+        "batch_size":           20,
+        "learning_rate":        4e-4,
+        "saved_folder":   		"save",
+        "first_trainable_layer": "",
+        "jitter":			true,
+        "is_only_detect" : 		false
+    }
+}

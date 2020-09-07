@@ -1,0 +1,2 @@
+black+white+silver 161 262 302 378
+white+black+red 197 366 363 480

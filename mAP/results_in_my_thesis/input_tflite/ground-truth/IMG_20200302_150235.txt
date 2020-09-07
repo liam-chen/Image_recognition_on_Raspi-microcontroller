@@ -1,0 +1,2 @@
+black+black+red 167 265 321 367
+white+white+silver 209 77 357 261

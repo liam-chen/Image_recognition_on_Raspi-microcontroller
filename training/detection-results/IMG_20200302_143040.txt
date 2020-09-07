@@ -1,0 +1,4 @@
+black+white+silver 0.94385254 143 192 409 350
+white+black+red 0.8614155 403 205 647 354
+black+white+silver 0.94385254 143 192 409 350
+white+black+red 0.8614155 403 205 647 354

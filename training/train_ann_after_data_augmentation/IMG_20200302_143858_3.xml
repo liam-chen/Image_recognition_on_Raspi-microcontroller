@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>image5</folder>
+	<filename>IMG_20200302_143858_3.jpg</filename>
+	<path>D:\Uni_Stuttgart\MA\image5\IMG_20200302_143858.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>603</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white+white+red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>210</ymin>
+			<xmax>570</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

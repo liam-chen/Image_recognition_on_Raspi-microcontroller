@@ -1,0 +1,16 @@
+black+black+silver 0.39551306 189 17 442 223
+black+black+silver 0.6406691 179 10 463 240
+black+black+silver 0.8543126 182 34 450 252
+black+black+silver 0.40510732 182 57 450 248
+black+black+silver 0.9232436 188 31 465 265
+black+black+silver 0.3031733 231 32 484 254
+black+black+silver 0.55609304 216 25 491 280
+black+black+silver 0.42396456 161 82 497 314
+black+black+silver 0.39551306 189 17 442 223
+black+black+silver 0.6406691 179 10 463 240
+black+black+silver 0.8543126 182 34 450 252
+black+black+silver 0.40510732 182 57 450 248
+black+black+silver 0.9232436 188 31 465 265
+black+black+silver 0.3031733 231 32 484 254
+black+black+silver 0.55609304 216 25 491 280
+black+black+silver 0.42396456 161 82 497 314

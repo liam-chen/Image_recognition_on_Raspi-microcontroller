@@ -1,0 +1,4 @@
+black+white+red 0.797283 246 43 394 267
+black+white+red 0.48763835 232 57 398 306
+white+black+silver 0.41580945 238 186 427 403
+white+black+silver 0.5207652 228 231 424 390

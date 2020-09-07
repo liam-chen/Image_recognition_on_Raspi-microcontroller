@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resizedImage</folder>
+	<filename>IMG_20200224_143606.jpg</filename>
+	<path>D:\Uni_Stuttgart\MA\resizedImage\IMG_20200224_143606.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white+black+silver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>147</ymin>
+			<xmax>325</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

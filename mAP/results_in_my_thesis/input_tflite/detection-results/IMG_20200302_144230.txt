@@ -1,0 +1,6 @@
+black+black+red 0.54434127 88 90 367 357
+black+black+red 0.47467804 96 69 384 378
+black+black+red 0.5969388 94 97 349 417
+black+black+red 0.92313606 101 121 366 381
+black+black+red 0.8685462 94 106 381 407
+black+black+red 0.38741466 132 111 395 393

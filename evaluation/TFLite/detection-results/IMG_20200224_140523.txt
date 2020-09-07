@@ -1,0 +1,4 @@
+black+white+silver 0.48428398 100 157 445 346
+black+white+silver 0.65184385 112 163 468 360
+black+white+silver 0.48428398 100 157 445 346
+black+white+silver 0.65184385 112 163 468 360

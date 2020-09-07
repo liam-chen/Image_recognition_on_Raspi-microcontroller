@@ -1,0 +1,2 @@
+white+white+red 0.4773765 341 76 694 558
+white+white+red 0.0717701 510 108 863 500
