@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resizedImage</folder>
+	<filename>IMG_20191206_155954_0.jpg</filename>
+	<path>D:\Uni_Stuttgart\MA\resizedImage\IMG_20191206_155954.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white+white+silver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>50</ymin>
+			<xmax>599</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>
